@@ -60,9 +60,10 @@ nav a{
 }
 
 nav a:hover,
-nav a.active{
-    color: white;
-    border-bottom: 2px solid red;
+nav a.hover{
+    color: red;
+    text-shadow: 1px 1px 20px red,1px 1px 30px red;
+
 
 }
 
